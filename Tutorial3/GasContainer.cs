@@ -12,7 +12,17 @@ public class GasContainer : Container, IHazardNotifier
         Pressure = pressure;
     }
 
+    public override void Load(double mass)
+    {
+        if (mass > MaxPayload)
+        {
+            Notify();
+            throw new OverfillException("Error");
+        }
+        base.Load(mass);
+    }
     
+
     public override void Clear()
     {
         CargoWeight *= 0.05;
