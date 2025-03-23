@@ -33,7 +33,18 @@ public class RefrigeratedContainer : Container, IHazardNotifier
         TypeOfProduct = typeOfProduct;
         Temperature = temperature;
     }
-    
+
+    public void Load(double mass, string product)
+    {
+        if (!ProductTemperatures.ContainsKey(product) || ProductTemperatures[product] > Temperature ||
+            product != TypeOfProduct)
+        {
+            Notify();
+            return;
+        }
+        base.Load(mass);
+    }
+
     public void Notify()
     {
         Console.WriteLine($"Hazard in container: {SerialNumber}");
