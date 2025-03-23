@@ -1,7 +1,6 @@
 namespace Tutorial3;
 
 
-public class OverfillException(string message) : Exception(message);
 
 public abstract class Container
 {
