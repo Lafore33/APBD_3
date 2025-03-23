@@ -1,0 +1,14 @@
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.deps.json
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.runtimeconfig.json
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.dll
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/bin/Debug/net9.0/Tutorial3.pdb
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.AssemblyInfoInputs.cache
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.AssemblyInfo.cs
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.csproj.CoreCompileInputs.cache
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.dll
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/refint/Tutorial3.dll
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.pdb
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.genruntimeconfig.cache
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/ref/Tutorial3.dll
