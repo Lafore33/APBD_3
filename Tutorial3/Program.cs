@@ -4,7 +4,7 @@ class Program
 {
     private static void Main()
     {
-        var ship1 = new ContainerShip(4, 10, 500000.0);
+        var ship1 = new ContainerShip(4, 10, 30000.0);
         var ship2 = new ContainerShip(20, 10, 30.0);
 
         var liquidContainer = new LiquidContainer(100, 999, 200, 26000, false);
@@ -47,7 +47,7 @@ class Program
         ship1.PrintShipInfo();
         
         Console.WriteLine("---");
-        gasContainer.Clear(); // Should leave 1000 kg (5% of 20000)
+        gasContainer.Clear();
         gasContainer.GetInfo();
         
         Console.WriteLine("---");

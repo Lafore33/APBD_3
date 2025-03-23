@@ -12,3 +12,4 @@
 /Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.pdb
 /Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.genruntimeconfig.cache
 /Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/ref/Tutorial3.dll
+/Users/mikhailkoutun/RiderProjects/Tutorial3/Tutorial3/obj/Debug/net9.0/Tutorial3.sourcelink.json
